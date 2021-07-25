@@ -1,3 +1,3 @@
 # Token
 
-These are the files used iin deploying of PuppyCash (PUPC) Token on BSC Network.
+These are the files used in deploying of PuppyCash (PUPC) Token on BSC Network.
